@@ -1,4 +1,1 @@
-epic_tragedy = {
-  montague: {},
-  capulet: {}
-}
+def first_challenge
